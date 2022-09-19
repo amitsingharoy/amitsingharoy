@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Singha Roy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”
+<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FNOYF3f82b_gAAAAC%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&tbnid=2JKeF76tTWe0TM&vet=12ahUKEwje8M381J_6AhXv_jgGHTB-AWAQMygIegUIARClAg..i&docid=SplG_KW7Cwij1M&w=498&h=312&q=programming%20gif&ved=2ahUKEwje8M381J_6AhXv_jgGHTB-AWAQMygIegUIARClAg”
 
 - 🌱 I’m currently learning **Kotlin, AWS, MySql.**
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.amitsingharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.amitsingharoy" height="30" width="40" /></a>
+<a href="https://dev.to/amitsingharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.amitsingharoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amit-singha-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singha-roy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/amit-chandra-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amit-chandra-roy" height="30" width="40" /></a>
 <a href="https://kaggle.com/amitchandraroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amitchandraroy" height="30" width="40" /></a>
