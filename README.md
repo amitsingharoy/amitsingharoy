@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/amitsingharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.amitsingharoy" height="30" width="40" /></a>
+<a href="https://g.dev/amitsingharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/amitsingharoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amit-singha-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singha-roy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/amit-chandra-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amit-chandra-roy" height="30" width="40" /></a>
 <a href="https://kaggle.com/amitchandraroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amitchandraroy" height="30" width="40" /></a>
